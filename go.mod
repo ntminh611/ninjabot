@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/StudioSol/set v0.0.0-20211001132805-52fe71d0afcf
 	github.com/adshao/go-binance/v2 v2.3.7
-	github.com/evanw/esbuild v0.14.49
+	github.com/evanw/esbuild v0.14.50
 	github.com/jpillora/backoff v1.0.0
 	github.com/markcheno/go-talib v0.0.0-20190307022042-cd53a9264d70
 	github.com/olekukonko/tablewriter v0.0.5
@@ -44,7 +44,7 @@ require (
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
 	golang.org/x/crypto v0.0.0-20220131195533-30dcbda58838 // indirect
 	golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17 // indirect
-	golang.org/x/sys v0.0.0-20220128215802-99c3d69c2c27 // indirect
+	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
